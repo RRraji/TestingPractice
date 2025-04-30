@@ -139,8 +139,6 @@ public class Buttons_MainFlow extends Buttons_BaseClass{
 		//close();
 		//close();
 		
-		//close all the windows
-		//quit();
 		
 		//go to the Waits page
 		get("https://letcode.in/waits");
