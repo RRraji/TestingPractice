@@ -108,7 +108,7 @@ public class Buttons_MainFlow extends Buttons_BaseClass{
 		
 		//click on the Modern Alert button to trigger an alert and close it
 		//click(POM.Buttons.ModernAlert);
-		Thread.sleep(3000);
+		//Thread.sleep(3000);
 		//click(POM.Buttons.CloseModernAlert);
 		
 		//Navigate to the Frames page
